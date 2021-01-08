@@ -1,4 +1,4 @@
-# AR Foundation Samples
+# AR Foundation Samples    
 
 Example projects that use [*AR Foundation 4.1*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html) and demonstrate its functionality with sample assets and components.
 
